@@ -2,6 +2,8 @@
 
 GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
 
+GitBook 地址(我的)：[https://chen-ee.gitbook.io/spring-in-action-v5-chinese](https://chen-ee.gitbook.io/spring-in-action-v5-chinese)
+
 Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate)
 
 源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
